@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "260d3385bc3baca12ff5",
+    "revision": "eb784e6438961aae099c",
     "url": "/static/css/main.3d9c39cd.chunk.css"
   },
   {
-    "revision": "260d3385bc3baca12ff5",
-    "url": "/static/js/main.260d3385.chunk.js"
+    "revision": "eb784e6438961aae099c",
+    "url": "/static/js/main.eb784e64.chunk.js"
   },
   {
-    "revision": "7978769507b1190111fd",
+    "revision": "6d25dacf291888cf7cbc",
     "url": "/static/css/1.4a3b3095.chunk.css"
   },
   {
-    "revision": "7978769507b1190111fd",
-    "url": "/static/js/1.79787695.chunk.js"
+    "revision": "6d25dacf291888cf7cbc",
+    "url": "/static/js/1.6d25dacf.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/static/media/fa-regular-400.5dd3976c.woff"
   },
   {
-    "revision": "414ff5daad323a1c47c5177d4bd29674",
-    "url": "/static/media/fa-regular-400.414ff5da.eot"
-  },
-  {
     "revision": "f6c6f6c8cb7784254ad00056f6fbd74e",
     "url": "/static/media/fa-regular-400.f6c6f6c8.ttf"
+  },
+  {
+    "revision": "414ff5daad323a1c47c5177d4bd29674",
+    "url": "/static/media/fa-regular-400.414ff5da.eot"
   },
   {
     "revision": "4b115e1153a9ea339d6a0bb284cc8ed3",
@@ -112,12 +112,12 @@ self.__precacheManifest = [
     "url": "/static/media/Raleway-Bold.3b1a9a7b.ttf"
   },
   {
-    "revision": "f696fb4c6b331373967288debc9baaec",
-    "url": "/static/media/WorkSans-Light.f696fb4c.ttf"
-  },
-  {
     "revision": "010aae55eee63f16095bc47f7cffae1b",
     "url": "/static/media/Raleway-Light.010aae55.ttf"
+  },
+  {
+    "revision": "f696fb4c6b331373967288debc9baaec",
+    "url": "/static/media/WorkSans-Light.f696fb4c.ttf"
   },
   {
     "revision": "7feb21f16dab8bd1839a8f260ff0b0df",
@@ -136,8 +136,12 @@ self.__precacheManifest = [
     "url": "/static/media/illustration.155c34b1.png"
   },
   {
-    "revision": "b412d93aeebd637cfebdd2ee32becfd9",
-    "url": "/static/media/luke-header.b412d93a.png"
+    "revision": "4fbd5ea0267d03706f9c833f653f33e3",
+    "url": "/static/media/header.4fbd5ea0.jpeg"
+  },
+  {
+    "revision": "ccbc442093ad6c2cad9e92af60c9b741",
+    "url": "/static/media/customluke-navbar.ccbc4420.png"
   },
   {
     "revision": "6feba6ed8a3013fea5c0be70120073d2",
@@ -160,7 +164,7 @@ self.__precacheManifest = [
     "url": "/static/media/album-cover-2.61f547eb.png"
   },
   {
-    "revision": "37cd1b0fc6dc5ffccb8d9c4a34f89b85",
+    "revision": "6c7a471bd9d21360edbce30cfc1999a5",
     "url": "/index.html"
   }
 ];
