@@ -101,32 +101,7 @@ export default class DigitalSpacePage extends Component {
                   className={
                     window.innerWidth > 1000 ? "w-75 d-inline-block" : ""
                   }
-                >
-                  <p
-                    className="lead text-left main-paragraph-font"
-                    style={{
-                      fontSize:
-                        window.innerWidth > 1000
-                          ? this.websiteFontSizeParagraph
-                          : this.mobileFontSizeParagraph
-                    }}
-                  >
-                    &nbsp; &nbsp; For the second one its a picture of some rust
-                    from an old table spherized as well. Even the space dust in
-                    the photos is just a picture of some clouds I took - I
-                    overlayed the clouds onto a black background to create the
-                    effect it is space dust and brushed over some color on it.
-                    Lastly the tiny stars and planets were created using a
-                    monochromatic photoshop document full of little white and
-                    black pixels, then Gaussian blurring it from the filters,
-                    and finally upping the levels so only some of the white dots
-                    are visible. If you use the right amount of leveling, it
-                    will appear there are specs that are identical to little
-                    stars across your screen nicely spread out. That is how i
-                    created a surreal what looks like space in a matter of an
-                    hour using just adobe photoshop and a camera.
-                  </p>
-                </div>
+                ></div>
               </div>
             </div>
             <div className="col-xs-2" />
