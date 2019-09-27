@@ -68,13 +68,11 @@ export default class AbstractPatternPage extends Component {
                           : this.mobileFontSizeParagraph
                     }}
                   >
-                    &nbsp; &nbsp; This abstract art was created with a very
-                    aimless goal besides outlining arbitrary colors throughout
-                    this piece. I had a lot of fun with it and I loved the way
-                    it turned out. To create this trippy color effect I used
-                    random gradients with the difference effect applied. If to
-                    look directly in the center you can even see I signed my
-                    initials into the outlines (LK) !
+                    &nbsp; &nbsp; This abstract art was designed through
+                    outlining arbitrary colors throughout a texture I created. I
+                    had a lot of fun with it. To create this trippy color effect
+                    I used random gradients along with the of use difference
+                    gradient layers. 2017
                   </p>
                 </div>
               </div>

@@ -77,14 +77,15 @@ export default class TridentPackage extends Component {
                     }}
                   >
                     &nbsp; &nbsp; The Trident "Tropical Beat" packaging is a
-                    mockup design I made if I was to work with Trident and they
-                    assigned me to make packaging for their new gum line. This
-                    mockup is no way affiliated with Trident and was made to
-                    show my artistic talents and what I am capable of. I got a
-                    summery vibe from the advertising of this new gum and with
-                    that thought i went to work. With the surfboards, boardwalk
-                    and clouds I feel that I set the mood just right for the new
-                    product.
+                    mockup design I created. This mockup is no way affiliated
+                    with Trident and was made to show my artistic talents and
+                    what I am capable of. I got a great summery vibe from the
+                    advertising ploys of this new gum and with that thought i
+                    went to work. With the surfboards, boardwalk, clouds and
+                    soft squishy gum pieces underneath the ground. I created the
+                    piece using my knowledge of negative and positive space
+                    along with a laser cutter, sketches, and adobe
+                    photoshop/illustrator. 2019
                   </p>
                 </div>
                 <div

@@ -66,14 +66,14 @@ export default class FeaturedProjects extends Component {
                     }}
                   >
                     2MuchSauce Food Truck contacted a friend and I to work with
-                    them to develop a flyer and a menu. I wanted a challenge so
-                    I took the menu offer and began designing my very first
-                    menu. This was one of the most enjoyable projects for me
-                    because I really have fun jumping a bit out of my comfort
-                    zone making projects I've never produced anything similar to
-                    before. This is a goal I stride for in nearly everything I
-                    work on to go above and beyond because I am dedicated and
-                    have a love for design.
+                    them to develop a flyer and a menu. My friend Joe had less
+                    proficiency in photoshop at the time so I took the menu
+                    offer and began designing my very first menu. This was one
+                    of the most enjoyable projects for me because I really love
+                    jumping out of my comfort zone making projects I've never
+                    produced anything similar to before. This is a goal I stride
+                    for in nearly everything I work on to go above and beyond in
+                    art. 2018
                   </p>
                   <Link
                     className="d-flex justify-content-end align-items-center"
@@ -136,7 +136,7 @@ export default class FeaturedProjects extends Component {
                     satellite imaging technologies along with drone image
                     capturing and photos of the area to understand a sense of
                     what it looks like. Then I got to work. The result turned
-                    out great and the process was around 2 weeks to finish.
+                    out great and the process was around 2 weeks to finish. 2019
                   </p>
                   <Link className="d-flex align-items-center" to="/airbnb-map">
                     <i

@@ -75,7 +75,7 @@ export default class AirbnbMap extends Component {
                     by using satellite imaging technologies along with drone
                     image capturing and photos of the area to understand a sense
                     of what it looks like. Then I got to work. The result turned
-                    out great and the process was around 2 weeks to finish.
+                    out great and the process was around 2 weeks to finish. 2019
                   </p>
                 </div>
               </div>

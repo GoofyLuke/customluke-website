@@ -71,14 +71,8 @@ export default class AlbumCover extends Component {
                           : this.mobileFontSizeParagraph
                     }}
                   >
-                    &nbsp; &nbsp; I had a teacher contact me to create an album
-                    cover for some cover work they needed to be shown to some
-                    gigs they were going to play at for samples. Even though
-                    this was my first venture into album artwork, I knew it was
-                    something I could tackle. So back in Late 2018, I decided to
-                    get to work and create my very first album artwork. I really
-                    like how it turned out and already have plans to work with
-                    others for album covers in the future
+                    &nbsp; &nbsp; I had a teacher contact me to create a cover
+                    work they needed to be created for their bands album. 2018
                   </p>
                 </div>
                 <div

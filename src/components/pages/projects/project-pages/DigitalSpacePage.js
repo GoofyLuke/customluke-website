@@ -71,13 +71,10 @@ export default class DigitalSpacePage extends Component {
                           : this.mobileFontSizeParagraph
                     }}
                   >
-                    &nbsp; &nbsp; These are my first pieces of work I was really
-                    proud of so I decided to throw them up on the portfolio too!
-                    I really like the usage of colors I used in these to create
-                    a surreal space vibe. The secret to the images is that all
-                    mediums used to make these were taken from my phone. I
-                    snagged a picture of cracked earth and spherized it to
-                    simulate a planet as well as fake shadows.
+                    &nbsp; &nbsp; These pieces are surreal space images using
+                    everyday objects and experimenting in photoshop. I used
+                    pictures I took in the past of cracked earth and clouds.
+                    2017
                   </p>
                 </div>
                 <div style={{ height: "2vh" }} />

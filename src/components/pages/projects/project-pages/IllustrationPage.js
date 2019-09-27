@@ -71,11 +71,8 @@ export default class IllustrationPage extends Component {
                           : this.mobileFontSizeParagraph
                     }}
                   >
-                    &nbsp; &nbsp; This was an in-class project at Oneonta State
-                    during my Intro class to computer art. The illustration was
-                    a sketch of a parallel universe where the clouds are
-                    crumbled paper. It was set to be in an old middle east town
-                    from a long time ago.
+                    &nbsp; &nbsp; This piece is just odd. Why are the clouds
+                    paper? 2018
                   </p>
                 </div>
               </div>

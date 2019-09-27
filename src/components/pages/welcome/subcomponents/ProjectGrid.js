@@ -27,6 +27,10 @@ class ProjectGrid extends Component {
           <div className="tz-gallery">
             <div className="row">
               <ProjectTeaser
+                image={require("../../../../img/portfolio/packaging-artboard.png")}
+                linkToProject="/trident-package"
+              />
+              <ProjectTeaser
                 image={require("../../../../img/portfolio/space-2016.png")}
                 linkToProject="/space-digital-art"
               />
@@ -41,10 +45,6 @@ class ProjectGrid extends Component {
               <ProjectTeaser
                 image={require("../../../../img/portfolio/illustration.png")}
                 linkToProject="/illustration"
-              />
-              <ProjectTeaser
-                image={require("../../../../img/portfolio/packaging-artboard.png")}
-                linkToProject="/trident-package"
               />
             </div>
           </div>
