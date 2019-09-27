@@ -1,0 +1,25 @@
+.page-header-image {
+  /* This should be given a background-image style attribute when used */
+
+  /* Full height */
+  height: 50%;
+  min-height: 50vh;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+}
+
+.page-header-text {
+  color: rgba(255, 255, 255);
+  font-family: headerTitleFont;
+  -webkit-text-stroke: 0.5px rgba(255, 255, 255);
+}
+
+@font-face {
+  font-family: headerTitleFont;
+  src: url(../../../fonts/Bungee_Shade/BungeeShade-Regular.ttf);
+}
