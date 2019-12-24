@@ -42,10 +42,6 @@ class ProjectGrid extends Component {
                 image={require("../../../../img/portfolio/abstract-outline.png")}
                 linkToProject="/abstract-pattern"
               />
-              <ProjectTeaser
-                image={require("../../../../img/portfolio/illustration.png")}
-                linkToProject="/illustration"
-              />
             </div>
           </div>
         </div>

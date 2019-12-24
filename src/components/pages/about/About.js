@@ -27,9 +27,9 @@ export default class About extends Component {
                   : this.mobileFontSizeParagraph
             }}
           >
-            &nbsp; &nbsp; Hi! I'm Luke Kenny, I'm a ninteen year old majoring in
-            Digital and Studio Art at Oneonta State. On top of this, I'm also a
-            freelance graphic designer. I have a keen eye for design and have
+            &nbsp; &nbsp; Hi! I'm Luke Kenny, I'm a nineteen year old majoring
+            in Digital and Studio Art at Oneonta State. On top of this, I'm also
+            a freelance graphic designer. I have a keen eye for design and have
             worked with various groups and companies to make ideas to come to
             life. I have been doing graphic design for 3+ years but only started
             it professionally within the last year. I hope to work with more

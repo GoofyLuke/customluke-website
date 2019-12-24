@@ -1,10 +1,10 @@
 {
   "main.css": "/static/css/main.f70dd434.chunk.css",
-  "main.js": "/static/js/main.f5bcdabb.chunk.js",
-  "main.js.map": "/static/js/main.f5bcdabb.chunk.js.map",
+  "main.js": "/static/js/main.f8a77e81.chunk.js",
+  "main.js.map": "/static/js/main.f8a77e81.chunk.js.map",
   "static/css/1.c5e143a2.chunk.css": "/static/css/1.c5e143a2.chunk.css",
-  "static/js/1.f383c016.chunk.js": "/static/js/1.f383c016.chunk.js",
-  "static/js/1.f383c016.chunk.js.map": "/static/js/1.f383c016.chunk.js.map",
+  "static/js/1.e0eb165e.chunk.js": "/static/js/1.e0eb165e.chunk.js",
+  "static/js/1.e0eb165e.chunk.js.map": "/static/js/1.e0eb165e.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/packaging-artboard.png": "/static/media/packaging-artboard.6feba6ed.png",
@@ -16,7 +16,6 @@
   "static/media/all.css": "/static/media/fa-solid-900.82905d8d.svg",
   "static/media/index.css": "/static/media/headerbanner.2c560c9f.jpg",
   "static/media/space-2016.png": "/static/media/space-2016.39dfcaf1.png",
-  "static/media/illustration.png": "/static/media/illustration.155c34b1.png",
   "static/media/header.jpeg": "/static/media/header.4fbd5ea0.jpeg",
   "static/media/customluke-navbar.png": "/static/media/customluke-navbar.cd74a969.png",
   "static/media/packaging.jpeg": "/static/media/packaging.8a9a40ba.jpeg",
@@ -27,6 +26,6 @@
   "static/css/1.c5e143a2.chunk.css.map": "/static/css/1.c5e143a2.chunk.css.map",
   "static/css/main.f70dd434.chunk.css.map": "/static/css/main.f70dd434.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f9da0f82479b5ed3ba1195b46f737c07.js": "/precache-manifest.f9da0f82479b5ed3ba1195b46f737c07.js",
+  "precache-manifest.80cc7d04fc348badc5d31d6f31e2cfaf.js": "/precache-manifest.80cc7d04fc348badc5d31d6f31e2cfaf.js",
   "service-worker.js": "/service-worker.js"
 }
